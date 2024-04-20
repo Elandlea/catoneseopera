@@ -1,0 +1,12 @@
+.background-image{
+    position: absolute;
+    top:0;
+    right:0;
+    width: 700px;
+    height: 500px;
+    border-radius: 100px;
+    object-fit: cover;
+    opacity: 0.3;
+    filter: blur(5px);
+    z-index: -1;
+}

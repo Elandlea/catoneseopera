@@ -1,0 +1,23 @@
+h1{
+font-family: FZShuTi;
+font-size: 50px;
+text-align: center;
+}
+
+h2{
+font-family: STXingkai;
+font-size: 40px;
+}
+
+
+p{
+    text-indent: 2em;
+    text-align: justify;
+    margin-top: 1em;
+    margin-bottom: 1em;
+	line-height: 30px;
+}
+
+body{
+    margin:30px;
+}
